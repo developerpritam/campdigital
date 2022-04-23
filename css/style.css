@@ -428,14 +428,14 @@ header nav .nav_wrapper .right_content .header_toggle {
 
 #carouselExampleControls .carousel-item.singing-bg {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("images/hero1.jpg") no-repeat;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/hero1.jpg") no-repeat;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("images/hero1.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 #carouselExampleControls .carousel-item.singing-bg-second {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("images/hero2.jpg") no-repeat;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/hero2.jpg") no-repeat;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/hero2.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
 }
