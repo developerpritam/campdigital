@@ -71,7 +71,7 @@ start custom css from here
 // #################### header start here #########################
 header {
   nav {
-    background: url("/images/logo_bg.png") no-repeat;
+    background: url("images/logo_bg.png") no-repeat;
     .nav_wrapper {
       display: flex;
       justify-content: space-between;
@@ -225,14 +225,14 @@ header {
 
 #carouselExampleControls .carousel-item.singing-bg {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("/images/hero1.jpg") no-repeat;
+    url("images/hero1.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 #carouselExampleControls .carousel-item.singing-bg-second {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/images/hero2.jpg") no-repeat;
+    url("images/hero2.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
 }
